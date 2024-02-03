@@ -1,6 +1,6 @@
 {
-  "name": "app name",
-  "short_name": "short name",
+  "name": "pwa sample app",
+  "short_name": "pwa",
   "theme_color": "#fff",
   "background_color": "#fff",
   "display": "standalone",
